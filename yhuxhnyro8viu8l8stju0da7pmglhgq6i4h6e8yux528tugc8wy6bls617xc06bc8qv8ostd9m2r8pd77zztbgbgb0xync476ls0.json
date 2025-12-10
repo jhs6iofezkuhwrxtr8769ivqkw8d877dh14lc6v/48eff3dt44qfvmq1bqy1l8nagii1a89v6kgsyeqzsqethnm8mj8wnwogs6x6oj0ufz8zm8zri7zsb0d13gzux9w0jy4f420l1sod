@@ -1,0 +1,52 @@
+{
+	"status": "ok",
+	"lang": "ro",
+	"code": 0,
+	"country": "Moldova",
+	"currency": "MDL",
+	"stations": [
+		{
+			"id": "57",
+			"name": "EV0121",
+			"type": "DC",
+			"country": "1",
+			"coordinates": "47.002247, 28.824041",
+			"partner": "Asachi",
+			"admin_id": "67",
+			"code": "EV0121",
+			"status_port_log_1": null,
+			"status_port_log_2": null,
+			"status_port_log_3": null,
+			"infoRU": "ВРЕМЕННО НЕ ДОСТУПНО",
+			"infoRO": "ВРЕМЕННО НЕ ДОСТУПНО",
+			"infoEN": "ВРЕМЕННО НЕ ДОСТУПНО",
+			"parking_time": "1",
+			"last_restart": "2024-01-09 03:02:06",
+			"xml_id": null,
+			"server_time": null,
+			"reservation": "0",
+			"parking_address": "",
+			"parking_block": "0",
+			"parking_block_two": "0",
+			"onOpen": "1",
+			"isShown": "1",
+			"info": "ВРЕМЕННО НЕ ДОСТУПНО",
+			"address": "mun. Chisinau, str. G. Asachi 23/A",
+			"lat": "47.002247",
+			"lng": "28.824041",
+			"parking": "top",
+			"parking_tarif": "15.0000",
+			"connector": {
+				"index": 1,
+				"type": "cable",
+				"desc_port": "CCS    50 kW",
+				"power_port": "50",
+				"tarif": "7.86",
+				"available_stop": 0,
+				"status": "",
+				"transaction": null,
+				"reservation": null
+			}
+		}
+	]
+}
